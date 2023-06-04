@@ -1,0 +1,19 @@
+fieldset{
+    background-color:beige;
+}
+legend{
+    font-weight: bolder;
+    font-size: 30px;
+}
+#username,#password,#name,#email,#confirm_password,#state,#address{
+    padding:13px;
+    padding-left: 10px;
+}
+label{
+    font-size: 18px;
+}
+#submit{
+    padding:13px 25px;
+    font-size: large;
+    border-radius: 15px;
+}
